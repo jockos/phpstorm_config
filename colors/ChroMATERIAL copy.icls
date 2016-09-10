@@ -23,7 +23,6 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="eacec3" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f36e3a" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f36e3a" />
     <option name="FILESTATUS_UNKNOWN" value="cdd3de" />
@@ -688,17 +687,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="IGNORE.BRACKET" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="IGNORE.HEADER" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
     <option name="IGNORE.NEGATION">
       <value>
         <option name="FOREGROUND" value="ff5370" />
         <option name="BACKGROUND" value="263238" />
       </value>
     </option>
-    <option name="IGNORE.SECTION" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="IGNORE.SLASH" baseAttributes="DEFAULT_COMMA" />
     <option name="IGNORE.SYNTAX">
       <value>
         <option name="FOREGROUND" value="cfd8dc" />
@@ -1336,9 +1330,6 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="OC.LOCAL_VARIABLE">
-      <value />
-    </option>
     <option name="OC.MACRONAME">
       <value>
         <option name="FOREGROUND" value="d0d0d" />
@@ -1355,9 +1346,6 @@
       <value>
         <option name="FOREGROUND" value="b2ff59" />
       </value>
-    </option>
-    <option name="OC.PARAMETER">
-      <value />
     </option>
     <option name="OC.PROPERTY">
       <value>
@@ -1477,7 +1465,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ba68c8" />
