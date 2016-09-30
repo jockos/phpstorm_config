@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="User" type="PHP" />
       <mapping pattern="User.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="moveUp" type="Twig" />
       <mapping pattern="admin" type="YAML" />
