@@ -9,11 +9,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="C:\xampp\php\phpcs.bat" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\wamp\bin\php\php7.0.4\php.exe" id="40046770-e208-4345-ab76-996a7af468a1" name="PHP 7.0.4" debugger_id="php.debugger.XDebug" debugger_extension="C:\wamp\bin\php\php7.0.4\ext\php_xdebug-2.5.0rc1-7.0-vc14-x86_64.dll" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.0.4">
