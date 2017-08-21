@@ -1,16 +1,15 @@
 <scheme name="Material Theme - Default DELL" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2016-11-25T18:25:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-02-08T18:48:42</property>
+    <property name="modified">2017-08-21T10:01:52</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="29" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo for Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="28" />
-  <option name="CONSOLE_LINE_SPACING" value="0.8" />
-  <option name="EDITOR_FONT_NAME" value="Menlo for Powerline" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
