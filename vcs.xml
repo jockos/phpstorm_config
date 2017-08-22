@@ -6,8 +6,20 @@
           <option name="url" value="git@github.com:coopTilleuls/wheel-of-fortune.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:alicesgarden/amms-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:alicesgarden/amms-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:alicesgarden/website.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jacqu\Documents\DEV" />
+    <option name="cloneParentDir" value="$USER_HOME$/Sites" />
   </component>
 </application>
