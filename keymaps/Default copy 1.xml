@@ -26,6 +26,9 @@
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="Runner.CloseView">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
