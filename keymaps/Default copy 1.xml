@@ -26,6 +26,9 @@
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="ShowContent" />
   <action id="XDebugger.MoveWatchDown" />
 </keymap>
