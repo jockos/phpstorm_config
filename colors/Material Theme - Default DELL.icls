@@ -1,13 +1,13 @@
 <scheme name="Material Theme - Default DELL" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.4166666" />
   <metaInfo>
     <property name="created">2016-11-25T18:25:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-08-31T10:47:16</property>
+    <property name="modified">2017-10-16T11:58:46</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Bitstream Vera Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="Bitstream Vera Sans Mono" />
   <colors>
@@ -182,7 +182,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="999999" />
+        <option name="FOREGROUND" value="d9d9d9" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -227,7 +227,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="e20f06" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
