@@ -1,8 +1,6 @@
 <scheme name="Monokai copy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="30" />
+  <option name="LINE_SPACING" value="0.9" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="X_LARGE" />
-  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
