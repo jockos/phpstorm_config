@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,15 +16,24 @@
       <mask>*.mxml</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
       <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>.php</mask>
       <mask>*te.php</mask>
       <mask>*tex.php</mask>
       <mask>*text.php</mask>
       <mask>*.php</mask>
+      <mask>con</mask>
+      <mask>confi</mask>
+      <mask>config</mask>
+      <mask>config.</mask>
+      <mask>config.*</mask>
+      <mask>config*</mask>
+      <mask>$.</mask>
+      <mask>$</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
