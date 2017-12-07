@@ -4,6 +4,7 @@
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="accentColor" value="2979ff" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="18" />
