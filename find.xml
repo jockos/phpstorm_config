@@ -3,17 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="composer.lock" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.ym</mask>
-      <mask>.php</mask>
-      <mask>*te.php</mask>
       <mask>*tex.php</mask>
       <mask>*text.php</mask>
       <mask>con</mask>
@@ -34,6 +25,16 @@
       <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>co</mask>
+      <mask>com</mask>
+      <mask>compo</mask>
+      <mask>compos</mask>
+      <mask>compose</mask>
+      <mask>composer</mask>
+      <mask>composer.</mask>
+      <mask>composer.l</mask>
+      <mask>composer.lo</mask>
+      <mask>composer.lock</mask>
     </recentFileMasks>
   </component>
 </application>
