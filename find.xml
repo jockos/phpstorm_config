@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*tex.php</mask>
-      <mask>*text.php</mask>
-      <mask>con</mask>
-      <mask>confi</mask>
       <mask>config</mask>
       <mask>config.</mask>
       <mask>config.*</mask>
@@ -18,7 +15,6 @@
       <mask>*.xl</mask>
       <mask>*.x</mask>
       <mask>*</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
@@ -34,6 +30,11 @@
       <mask>composer.l</mask>
       <mask>composer.lo</mask>
       <mask>composer.lock</mask>
+      <mask>composer.lock*</mask>
+      <mask>composer.lock*.</mask>
+      <mask>composer.lock*.p</mask>
+      <mask>composer.lock*.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
