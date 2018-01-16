@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.dist" type=".env file" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
