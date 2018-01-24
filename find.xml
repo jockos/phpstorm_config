@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>config</mask>
       <mask>config.</mask>
       <mask>config.*</mask>
       <mask>config*</mask>
@@ -34,6 +34,7 @@
       <mask>composer.lock*.p</mask>
       <mask>composer.lock*.php</mask>
       <mask>*.php</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
