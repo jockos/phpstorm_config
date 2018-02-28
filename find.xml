@@ -3,6 +3,7 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="!*.log" />
     <recentFileMasks>
       <mask>$</mask>
       <mask>*.xlf</mask>
@@ -32,8 +33,8 @@
       <mask>*.coffee</mask>
       <mask>*.php</mask>
       <mask>*sion.php</mask>
-      <mask>!*.log</mask>
       <mask>*.feature</mask>
+      <mask>!*.log</mask>
     </recentFileMasks>
   </component>
 </application>
