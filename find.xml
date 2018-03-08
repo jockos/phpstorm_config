@@ -3,8 +3,8 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="!*test.php" />
     <recentFileMasks>
-      <mask>$</mask>
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
@@ -34,6 +34,7 @@
       <mask>*.feature</mask>
       <mask>!*.log</mask>
       <mask>*.yml</mask>
+      <mask>!*test.php</mask>
     </recentFileMasks>
   </component>
 </application>
