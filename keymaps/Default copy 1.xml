@@ -37,5 +37,8 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="ShowContent" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="XDebugger.MoveWatchDown" />
 </keymap>
