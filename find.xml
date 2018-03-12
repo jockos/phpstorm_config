@@ -3,6 +3,7 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
@@ -28,12 +29,12 @@
       <mask>composer.lock*.php</mask>
       <mask>*Test.php</mask>
       <mask>*.coffee</mask>
-      <mask>*.php</mask>
       <mask>*sion.php</mask>
       <mask>*.feature</mask>
       <mask>!*.log</mask>
       <mask>*.yml</mask>
       <mask>!*test.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
