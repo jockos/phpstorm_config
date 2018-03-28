@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ler.php" />
     <recentFileMasks>
-      <mask>*.xl</mask>
       <mask>*.x</mask>
       <mask>*</mask>
       <mask>*.ph</mask>
@@ -34,6 +34,7 @@
       <mask>!*test.php</mask>
       <mask>*.php</mask>
       <mask>*.html</mask>
+      <mask>*ler.php</mask>
     </recentFileMasks>
   </component>
 </application>
